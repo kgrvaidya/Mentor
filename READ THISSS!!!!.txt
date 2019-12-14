@@ -1,0 +1,1 @@
+stud_info table has id as priary key. So a user can only insert his details once. That means his IA entries can be fed only once
